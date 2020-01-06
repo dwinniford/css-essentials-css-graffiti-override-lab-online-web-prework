@@ -2,4 +2,7 @@
   display: none;
 }
 
+#wall .tag-1 + #tag-2 {
+  display
+}
 /* write your override styles here */
