@@ -14,7 +14,7 @@
   display:none;
 }
 
-#wall .parent .slick#tag-5 {
+#wall .parent + .parent #tag-5.slick {
   display:none;
 }
 /* write your override styles here */
